@@ -8,6 +8,10 @@
 
 MITRA is an AI-powered mental health platform that addresses India's student suicide crisis by detecting depression 6 weeks before traditional methods and providing 24/7 AI therapy support. Every 28 seconds, India loses a student to suicide - MITRA aims to change this statistic.
 
+## 💡 our Beta version 
+
+Website- https://mitra.base44.app/
+
 ## 🚨 Problem Statement
 
 - **13,089** students lost to suicide annually in India
